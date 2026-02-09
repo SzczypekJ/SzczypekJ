@@ -1,28 +1,67 @@
-### Hi there 👋
+# Jakub Szczypek — QA Automation Engineer
 
-I'm Jakub, a QA Automation Engineer focused on building scalable UI and API test frameworks.  
+Hi 👋  
+I’m a QA Automation Engineer focused on building scalable UI and API automation frameworks.  
 I work mainly with Java, Selenium, and RestAssured, and I’m interested in test architecture, clean code, and engineering best practices.
 
-- 🔭 Currently working on enterprise automation projects and a personal test automation framework
-- 🧪 Strong focus on UI/API test architecture and maintainable automation design
-- 🌱 Continuously improving my engineering skills and moving closer to software development
-- ⚙️ Interested in backend systems, tooling, and automation infrastructure
-- 📫 Contact: [jakub.szczypek@tlen.pl](mailto:jakub.szczypek@tlen.pl)
+I treat automation as software engineering — not just testing.
 
 ---
 
-### Tech Stack
+## What I work on
 
-Java • Selenium • RestAssured • TestNG • JUnit • Spring • Maven  
-Kotlin • Python • SQL • CI/CD
+- Enterprise UI/API automation frameworks
+- Large regression and sanity suites
+- Test architecture and maintainable framework design
+- Personal automation projects simulating real-world systems
+- Continuous improvement of engineering skills
 
 ---
 
-### GitHub Stats
+## Tech Stack
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SzczypekJ&show_icons=true&theme=radical&cache_seconds=86400)
+**Automation & Testing**  
+Java • Selenium • RestAssured • TestNG • JUnit • Spring
 
-### Top Languages
+**Programming**  
+Java • Kotlin • Python • SQL
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SzczypekJ&layout=compact&theme=radical&cache_seconds=86400)
+**Tools & Workflow**  
+Git • Maven • Gradle • CI/CD • Agile
 
+---
+
+## Featured Projects
+
+### Automation Testing Framework *(In Progress)*
+Personal project focused on building a scalable UI/API automation architecture using industry best practices.
+
+Tech: Java • Selenium • RestAssured • JUnit • Spring • Maven
+
+---
+
+### Music Genre Classification (CNN)
+Neural network project comparing CNN architectures for audio classification with a full preprocessing pipeline and evaluation workflow.
+
+Tech: Python • Keras • Librosa • NumPy
+
+---
+
+### Cinema Booking System
+Full-stack web application with authentication, booking workflows, admin dashboard, and background task automation.
+
+Tech: Python • Flask • SQLAlchemy • Docker
+
+---
+
+## Interests
+
+Automation architecture • Backend systems • Tooling • Software engineering
+
+---
+
+## Contact
+
+📫 jakub.szczypek@tlen.pl  
+🔗 LinkedIn: https://linkedin.com/in/jakub-szczypek-b82848259  
+💻 GitHub: https://github.com/SzczypekJ
