@@ -1,14 +1,27 @@
 ### Hi there 👋
 
-I'm SzczypekJ, a passionate developer with interests in web development, data science, and machine learning.
+I'm Jakub, a QA Automation Engineer focused on building scalable UI and API test frameworks.  
+I work mainly with Java, Selenium, and RestAssured, and I’m interested in test architecture, clean code, and engineering best practices.
 
-- 🔭 I’m currently working on various Python and Flask projects.
-- 🌱 I’m currently learning Flask and Django.
-- 👯 I’m looking for first job/internship.
-- 📫 How to reach me: [jakub.szczypek@tlen.pl](mailto:jakub.szczypek@tlen.pl)
+- 🔭 Currently working on enterprise automation projects and a personal test automation framework
+- 🧪 Strong focus on UI/API test architecture and maintainable automation design
+- 🌱 Continuously improving my engineering skills and moving closer to software development
+- ⚙️ Interested in backend systems, tooling, and automation infrastructure
+- 📫 Contact: [jakub.szczypek@tlen.pl](mailto:jakub.szczypek@tlen.pl)
+
+---
+
+### Tech Stack
+
+Java • Selenium • RestAssured • TestNG • JUnit • Spring • Maven  
+Kotlin • Python • SQL • CI/CD
+
+---
 
 ### GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SzczypekJ&show_icons=true&theme=radical)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SzczypekJ&show_icons=true&theme=radical)
 
 ### Top Languages
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SzczypekJ&layout=compact&theme=radical)
