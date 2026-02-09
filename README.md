@@ -20,8 +20,9 @@ Kotlin • Python • SQL • CI/CD
 
 ### GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SzczypekJ&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SzczypekJ&show_icons=true&theme=radical&cache_seconds=86400)
 
 ### Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SzczypekJ&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SzczypekJ&layout=compact&theme=radical&cache_seconds=86400)
+
